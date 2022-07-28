@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "layout/",
+        "index.js"
+    ],
+    "ext": "hbs",
+    "exec": "npm restart"
+}
